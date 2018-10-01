@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../sass/components/header.css",
+	"sources": [
+		"../../sass/components/header.sass"
+	],
+	"sourcesContent": [
+		".header {\n  background-color: rgba(0, 0, 0, 0.8);\n  max-width: 2000px;\n  margin: 0;\n  width: 100%;\n  height: 138px;\n  animation: fade-down 1s .1s 1 ease-in-out; }\n"
+	],
+	"mappings": ";AAAA,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,kBAAI;EACtB,SAAS,EAAE,MAAO;EAClB,MAAM,EAAE,CAAE;EACV,KAAK,EAAE,IAAK;EACZ,MAAM,EAAE,KAAM;EACd,SAAS,EAAE,8BAA+B;CAAG",
+	"names": []
+}

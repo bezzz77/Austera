@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../sass/components/common.css",
+	"sources": [
+		"../../sass/components/common.sass"
+	],
+	"sourcesContent": [
+		".btn {\n  width: 240px;\n  height: 50px;\n  border-radius: 50px;\n  text-align: center;\n  background-color: greenyellow;\n  line-height: 50px;\n  margin: 0 auto; }\n"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACH,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,IAAK;EACb,aAAa,EAAE,IAAK;EACpB,UAAU,EAAE,MAAO;EACnB,gBAAgB,EAAE,WAAY;EAC9B,WAAW,EAAE,IAAK;EAClB,MAAM,EAAE,MAAO;CAAG",
+	"names": []
+}

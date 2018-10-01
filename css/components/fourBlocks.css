@@ -1,0 +1,35 @@
+.FourBlocks {
+  position: relative;
+  display: flex;
+}
+
+.FourBlocks div {
+  height: 430px;
+  width: 25%;
+  padding: 40px 0;
+  justify-content: center;
+}
+
+.FourBlocks__1 {
+  background-image: url("../img/b1.png");
+}
+
+.FourBlocks__2 {
+  background-image: url("../img/b2.png");
+}
+
+.FourBlocks__3 {
+  background-image: url("../img/b3.png");
+}
+
+.FourBlocks__4 {
+  background-image: url("../img/b4.png");
+}
+
+.FourBlocks div > p {
+  color: #fff;
+  text-align: center;
+  padding-top: 5em;
+  font-family: "Montserrat Regular";
+  font-size: 27px;
+}

@@ -1,0 +1,28 @@
+.text_img {
+  margin-top: 50px;
+}
+
+.text_img__wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text_img__content {
+  width: 40%;
+  text-align: center;
+  font-size: 25px;
+  padding: 50px 10px;
+}
+
+.text_img__content a {
+  margin-top: 30px;
+}
+
+.text_img__img {
+  padding: 20px;
+}
+
+.text_img .lap__img {
+  width: 100%;
+  position: relative;
+}

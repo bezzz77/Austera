@@ -1,0 +1,37 @@
+.check {
+  position: relative;
+  width: 100%;
+}
+
+.check__title {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+
+.check__title span {
+  color: #2ebaee;
+}
+
+.check .Personal {
+  width: 100%;
+  padding: 30px 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.check ul {
+  width: 25%;
+}
+
+.check ul div {
+  display: block;
+  text-align: center;
+}
+
+.check ul div a {
+  margin-top: 20px;
+}

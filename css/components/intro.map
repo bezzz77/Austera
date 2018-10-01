@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../sass/components/intro.css",
+	"sources": [
+		"../../sass/components/intro.sass"
+	],
+	"sourcesContent": [
+		".intro {\n  position: relative;\n  height: 100vh;\n  width: 100%;\n  background-image: url(\"../img/bg1.png\");\n  background-position: 0 0;\n  &__container {\n    width: 700px;\n    display: block;\n    position: relative;\n    top: 300px;\n    left: 300px;\n    & h1,p {\n      text-align: center; }\n    & h1 {\n      font-size: 30px; }\n    & p {\n      font-size: 30px; }\n    &__btn {\n      text-align: center;\n      background-color: greenyellow;\n      border-radius: 30px; } } }\n\n\n\n\n\n"
+	],
+	"mappings": ";AAAA,AAAA,MAAM,CAAC;EACL,QAAQ,EAAE,QAAS;EACnB,MAAM,EAAE,KAAM;EACd,KAAK,EAAE,IAAK;EACZ,gBAAgB,EAAE,qBAAG;EACrB,mBAAmB,EAAE,GAAI;CAgBM;;;AArBjC,AAAA,iBAAM,CAMS;EACX,KAAK,EAAE,KAAM;EACb,OAAO,EAAE,KAAM;EACf,QAAQ,EAAE,QAAS;EACnB,GAAG,EAAE,KAAM;EACX,IAAI,EAAE,KAAM;CAUe;;;AArB/B,AAYM,iBAZA,CAYA,EAAE,EAZR,AAYS,iBAZH,CAYG,CAAC,CAAC;EACL,UAAU,EAAE,MAAO;CAAG;;;AAb5B,AAcM,iBAdA,CAcA,EAAE,CAAC;EACH,SAAS,EAAE,IAAK;CAAG;;;AAfzB,AAgBM,iBAhBA,CAgBA,CAAC,CAAC;EACF,SAAS,EAAE,IAAK;CAAG;;;AAjBzB,AAAA,sBAAM,CAkBK;EACL,UAAU,EAAE,MAAO;EACnB,gBAAgB,EAAE,WAAY;EAC9B,aAAa,EAAE,IAAK;CAAG",
+	"names": []
+}

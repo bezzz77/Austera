@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../sass/components/text_img.css",
+	"sources": [
+		"../../sass/components/text_img.sass"
+	],
+	"sourcesContent": [
+		".text_img {\n  display: flex;\n  position: relative; }\n"
+	],
+	"mappings": ";AAAA,AAAA,SAAS,CAAC;EACR,OAAO,EAAE,IAAK;EACd,QAAQ,EAAE,QAAS;CAAG",
+	"names": []
+}

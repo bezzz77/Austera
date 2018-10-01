@@ -1,0 +1,27 @@
+.boy {
+  position: relative;
+  display: flex;
+  width: 100%;
+  background-color: #fff;
+}
+
+.boy__img {
+  height: 100%;
+  width: 100%;
+}
+
+.boy__text {
+  font-family: "Montserrat Regular";
+  text-align: center;
+  justify-content: center;
+  margin: 100px 20px;
+}
+
+.boy .btn {
+  margin-top: 30px;
+}
+
+.boy > h1 {
+  font-size: 6em;
+  font-family: "Montserrat Regular";
+}

@@ -1,0 +1,49 @@
+.intro
+  position: relative
+  height: 100vh
+  width: 100%
+  background-image: url("../img/bg1.png")
+  background-position: 0 0
+  &:before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background-color: $blackopaciti
+
+  .container
+    height: 100%
+    display: flex
+    justify-content: center
+
+  &__content
+    width: 80%
+    align-self: center
+    & h1
+      font-size: 40px
+      text-align: justify-all
+    & span
+      color: #2ebaee
+
+  &__title
+    width: 100%
+    color: $white
+    text-align: center
+    margin-bottom: 30px
+    font-family: "Montserrat Bold"
+
+
+  &__desc
+    @extend .intro__title
+    text-transform: none
+
+
+
+
+
+
+
+
+

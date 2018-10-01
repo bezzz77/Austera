@@ -1,0 +1,12 @@
+/* line 1, C:/Users/Girey/Desktop/mySiteAustera/sass/components/common.sass */
+.btn {
+  width: 240px;
+  height: 50px;
+  border-radius: 50px;
+  text-align: center;
+  background-color: greenyellow;
+  line-height: 50px;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=../../css/components/common.map */

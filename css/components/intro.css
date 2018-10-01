@@ -1,0 +1,41 @@
+/* line 1, C:/Users/Girey/Desktop/mySiteAustera/sass/components/intro.sass */
+.intro {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-image: url("../img/bg1.png");
+  background-position: 0 0;
+}
+
+/* line 7, C:/Users/Girey/Desktop/mySiteAustera/sass/components/intro.sass */
+.intro__container {
+  width: 700px;
+  display: block;
+  position: relative;
+  top: 300px;
+  left: 300px;
+}
+
+/* line 13, C:/Users/Girey/Desktop/mySiteAustera/sass/components/intro.sass */
+.intro__container h1, .intro__container p {
+  text-align: center;
+}
+
+/* line 15, C:/Users/Girey/Desktop/mySiteAustera/sass/components/intro.sass */
+.intro__container h1 {
+  font-size: 30px;
+}
+
+/* line 17, C:/Users/Girey/Desktop/mySiteAustera/sass/components/intro.sass */
+.intro__container p {
+  font-size: 30px;
+}
+
+/* line 19, C:/Users/Girey/Desktop/mySiteAustera/sass/components/intro.sass */
+.intro__container__btn {
+  text-align: center;
+  background-color: greenyellow;
+  border-radius: 30px;
+}
+
+/*# sourceMappingURL=../../css/components/intro.map */
